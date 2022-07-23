@@ -1,4 +1,4 @@
-//OLD CODE BEFORE REVISED
+//OLD CODE
 
 #include<stdio.h>
 #include<sys/socket.h>
